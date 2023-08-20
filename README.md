@@ -2,4 +2,3 @@
 - 🔭 I’m currently working on Cloud District
 - 🦾 I'm specializing in podcast and media player applications
 - 💡 Public personal projects: Tympanum Podcast Theme, Camilo Radio Player, Allende API
-- 👾 Second life in GTA Online and RDR2 Online
